@@ -1,9 +1,5 @@
 # 📧 Smart Email Reply Generator
-
-An **AI-powered email assistant** that generates smart, context-aware replies using **Gemini 2.5**.  
-This full-stack project is built with a **Spring Boot backend** and a **React + Material UI frontend**.  
-It streamlines email communication by automatically suggesting professional, personalized responses in different tones.  
-It can be used as a email generator too.
+An AI-powered email replyer/generator that generates smart, context-aware replies using Gemini 2.5.
 ---
 
 ## 🚀 Features
