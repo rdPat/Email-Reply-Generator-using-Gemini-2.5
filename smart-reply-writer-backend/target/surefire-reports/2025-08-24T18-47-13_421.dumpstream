@@ -1,0 +1,5 @@
+# Created at 2025-08-24T18:47:13.803
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Project\SpringBoot\smart-reply-writer\smart-reply-writer\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

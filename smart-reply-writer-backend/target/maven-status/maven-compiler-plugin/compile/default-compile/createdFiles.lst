@@ -1,0 +1,4 @@
+com\smartreply\model\EmailRequest.class
+com\smartreply\controller\SmartEmailReplyController.class
+com\smartreply\view\SmartEmailReplyService.class
+com\smartreply\SmartReplyWriterApplication.class

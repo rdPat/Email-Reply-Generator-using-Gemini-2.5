@@ -1,0 +1,2 @@
+GEMINI_API_URL=https://generativelanguage.googleapis.com;
+GEMINI_API_KEY="YOUR API KEY GET IT FROM GOOGLE AI DEV PLATFORM FOR GEMINI"
